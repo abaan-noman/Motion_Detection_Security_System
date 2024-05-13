@@ -14,5 +14,7 @@ While the system offers effective motion detection and recording capabilities, i
 In conclusion, the Motion Detection Security System provides a reliable solution for motion detection and recording tasks. For further assistance or inquiries, feel free to reach out to the developers listed below:
 
 Abaan Noman (Team Lead/Developer) - abaan1@yahoo.com
+
 Abdullah Shibib (Front-End/Developer) - abdullahshibib@yahoo.com
+
 Mahmoud Berkoti (Developer) - m.berkoti@gmail.com
