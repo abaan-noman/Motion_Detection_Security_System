@@ -1,34 +1,18 @@
 # Motion_Detection_Security_System
-Overview
-The Motion Detection Security System is a Python program designed for real-time motion detection and video recording using a camera feed. It offers features such as motion detection, video recording, and a simple user interface for managing recordings.
+The Motion Detection Security System is a Python application designed to detect and record motion in real-time using a camera feed. It offers various features, including motion detection, video recording, and a user interface for managing recordings.
 
-System Requirements
-Operating System: Windows, MacOS, or Linux
-Python version: 3
-Libraries: tkinter, OpenCV
-Installation
-Install Python 3 from Python's official website.
-Install required libraries:
-pip install opencv-python
-Download and open the source code in a Python interpreter.
-Usage
-Run the main.py file.
-The program will detect and record motion from the camera feed.
-Press "q" to stop recording.
-User Interface
-Login with username "woodroffe" and password "2023".
-Options include real-time video viewing, accessing recordings, and clearing recordings.
-Troubleshooting
-Ensure proper camera connection and lighting conditions.
-Verify Python and library installations.
-Known Limitations
-Compatibility issues may occur with older Python or OpenCV versions.
-Lighting conditions affect accuracy.
-Conclusion
-The Motion Detection Security System provides a straightforward solution for motion detection and recording. Refer to the provided user manual for detailed instructions.
+To use the system, ensure you have a compatible operating system such as Windows, MacOS, or Linux, along with Python version 3 installed. Additionally, you'll need to install the required libraries, including tkinter and OpenCV. Installation is straightforward; simply follow the steps outlined in the installation section of the provided user manual.
 
-For inquiries, contact the developers:
+Once installed, executing the application involves running the main.py file. The program will then continuously monitor the camera feed for motion. Pressing the "q" key stops the recording process.
+
+The user interface provides options such as real-time video viewing, accessing recorded videos, and clearing recordings. To access these features, log in with the provided username and password.
+
+In case of any issues, troubleshoot by ensuring the camera is properly connected and there's adequate lighting. Verify Python and library installations for compatibility.
+
+While the system offers effective motion detection and recording capabilities, it's essential to note its known limitations. Compatibility issues may arise with older Python or OpenCV versions, and lighting conditions can impact accuracy.
+
+In conclusion, the Motion Detection Security System provides a reliable solution for motion detection and recording tasks. For further assistance or inquiries, feel free to reach out to the developers listed below:
 
 Abaan Noman (Team Lead/Developer) - abaan1@yahoo.com
-Abdullah Shibib (Front-End Developer) - abdullahshibib@yahoo.com
+Abdullah Shibib (Front-End/Developer) - abdullahshibib@yahoo.com
 Mahmoud Berkoti (Developer) - m.berkoti@gmail.com
